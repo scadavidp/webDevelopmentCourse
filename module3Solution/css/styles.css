@@ -1,0 +1,25 @@
+@media (min-width: 768px){
+    .navbar-toggler {
+        display: none;
+    }
+}
+
+.nav-link {
+    text-align: center;
+    background: #4CA2FF;
+    border: 1px solid black;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+}
+
+.col {
+    background-color: #4ca2ee;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
